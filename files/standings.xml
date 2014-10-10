@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xslf:livescore-feed
+	xsi:schemaLocation="http://xmlscores.com/XSLF http://xmlscores.com/schemas/2/standings.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xslf="http://xmlscores.com/XSLF"
+	timestamp-created="1280156206">
+
+	<contest>
+		<competition id="eng_pl">
+			<country>England</country>
+			<league>Barclays Premier League</league>
+		</competition>
+	</contest>
+	<items>
+		<item>
+			<team id="mufc_eng">
+				<name>Manchester United</name>
+				<fullname>Manchester United Football Club</fullname>
+			</team>
+			<position>1</position>
+			<points>36</points>
+			<matches>
+				<played>14</played>
+				<won>11</won>
+				<drawn>3</drawn>
+				<lost>0</lost>
+			</matches>
+			<goals>
+				<scored>23</scored>
+				<conceeded>6</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="cfc_eng">
+				<name>Chelsea</name>
+				<fullname>Chelsea Football Club</fullname>
+			</team>
+			<position>2</position>
+			<points>29</points>
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>5</drawn>
+				<lost>1</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>3</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="mcfc_eng">
+				<name>Manchester City</name>
+				<fullname>Manchester City Football Club</fullname>
+			</team>
+			<position>3</position>
+			<points>27</points>
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>3</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>22</scored>
+				<conceeded>12</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="thfc_eng">
+				<name>Tottenham Hotspur</name>
+				<fullname>Tottenham Hotspur Football Club</fullname>
+			</team>
+			<position>4</position>
+			<points>25</points>
+			<matches>
+				<played>14</played>
+				<won>7</won>
+
+				<drawn>4</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>19</scored>
+				<conceeded>14</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="afc_eng">
+				<name>Arsenal</name>
+				<fullname>Arsenal Football Club</fullname>
+			</team>
+			<position>5</position>
+			<points>22</points>
+			<matches>
+				<played>14</played>
+
+				<won>6</won>
+				<drawn>4</drawn>
+				<lost>4</lost>
+			</matches>
+			<goals>
+				<scored>20</scored>
+				<conceeded>14</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="lfc_eng">
+				<name>Liverpool</name>
+				<fullname>Liverppol Football Club</fullname>
+			</team>
+			<position>6</position>
+			<points>19</points>
+			<matches>
+				<played>14</played>
+				<won>6</won>
+				<drawn>1</drawn>
+				<lost>7</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>22</conceeded>
+			</goals>
+		</item>
+	</items>
+
+	<contest>
+		<competition id="spa_ll">
+			<country>Spain</country>
+			<league>La Liga</league>
+		</competition>
+	</contest>
+	<items>
+		<item>
+			<team id="fcb_spa">
+				<name>Barcelona</name>
+				<fullname>Futbol Club Barcelona</fullname>
+			</team>
+			<position>1</position>
+			<points>39</points>
+			<matches>
+				<played>15</played>
+				<won>12</won>
+				<drawn>3</drawn>
+				<lost>0</lost>
+			</matches>
+			<goals>
+				<scored>30</scored>
+				<conceeded>6</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="rmcf_spa">
+				<name>Real Madrid</name>
+				<fullname>Real Madrid Club de Fútbol</fullname>
+			</team>
+			<position>2</position>
+			<points>30</points>
+			<matches>
+				<played>15</played>
+				<won>8</won>
+				<drawn>6</drawn>
+				<lost>1</lost>
+			</matches>
+			<goals>
+				<scored>25</scored>
+				<conceeded>3</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="cad_spa">
+				<name>Atletico Madrid</name>
+				<fullname>Club Atlético de Madrid, S.A.D.</fullname>
+			</team>
+			<position>3</position>
+			<points>27</points>
+			<matches>
+				<played>15</played>
+				<won>8</won>
+				<drawn>3</drawn>
+				<lost>4</lost>
+			</matches>
+			<goals>
+				<scored>22</scored>
+				<conceeded>15</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="vcf_spa">
+				<name>Valencia</name>
+				<fullname>Valencia Club de Fútbol</fullname>
+			</team>
+			<position>4</position>
+			<points>26</points>
+			<matches>
+				<played>15</played>
+				<won>7</won>
+				<drawn>5</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>19</scored>
+				<conceeded>15</conceeded>
+			</goals>
+			<item>
+				<team id="mcf_spa">
+					<name>Malaga</name>
+					<fullname>Málaga Club de Fútbol</fullname>
+				</team>
+				<position>5</position>
+				<points>22</points>
+				<matches>
+					<played>14</played>
+					<won>6</won>
+					<drawn>4</drawn>
+					<lost>4</lost>
+				</matches>
+				<goals>
+					<scored>20</scored>
+					<conceeded>14</conceeded>
+				</goals>
+			</item>
+		</item>
+		<item>
+			<team id="rbb_spa">
+				<name>Real Betis</name>
+				<fullname>Real Betis Balompié S.A.D.</fullname>
+			</team>
+			<position>6</position>
+
+			<points>19</points>
+			<matches>
+				<played>14</played>
+				<won>6</won>
+				<drawn>1</drawn>
+				<lost>7</lost>
+
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>22</conceeded>
+			</goals>
+		</item>
+	</items>
+
+	<contest>
+		<competition id="ger_bl">
+			<country>Germany</country>
+			<league>Bundesliga</league>
+		</competition>
+	</contest>
+	<items>
+		<item>
+			<team id="fcbm_ger">
+				<name>Bayen Munich</name>
+				<fullname>Fußball-Club Bayern München e.V.</fullname>
+			</team>
+			<position>1</position>
+			<points>36</points>
+			<matches>
+				<played>14</played>
+				<won>11</won>
+				<drawn>3</drawn>
+				<lost>0</lost>
+			</matches>
+			<goals>
+				<scored>23</scored>
+				<conceeded>6</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="bbvd_ger">
+				<name>Borissa Dortmund</name>
+				<fullname>Ballspielverein Borussia 09 e.V. Dortmund</fullname>
+			</team>
+			<position>2</position>
+			<points>29</points>
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>5</drawn>
+				<lost>1</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>3</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="fcgs_ger">
+				<name>Schalke</name>
+				<fullname>Fußball-Club Gelsenkirchen-Schalke 04</fullname>
+			</team>
+			<position>3</position>
+			<points>27</points>
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>3</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>22</scored>
+				<conceeded>12</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="b04_ger">
+				<name>Bayer Leverkusen</name>
+				<fullname>Bayer 04 Leverkusen</fullname>
+			</team>
+			<position>4</position>
+			<points>25</points>
+			<matches>
+				<played>14</played>
+				<won>7</won>
+				<drawn>4</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>19</scored>
+				<conceeded>14</conceeded>
+			</goals>
+			<item>
+				<team id="hsv_ger">
+					<name>Hamburger SV</name>
+					<fullname>Hamburger Sport-Verein</fullname>
+				</team>
+				<position>5</position>
+				<points>22</points>
+				<matches>
+					<played>14</played>
+					<won>6</won>
+					<drawn>4</drawn>
+					<lost>4</lost>
+				</matches>
+				<goals>
+					<scored>20</scored>
+					<conceeded>14</conceeded>
+				</goals>
+			</item>
+		</item>
+		<item>
+			<team id="svwb_ger">
+				<name>Werder Brememn</name>
+				<fullname>SV Werder Bremen</fullname>
+			</team>
+			<position>6</position>
+			<points>19</points>
+			<matches>
+				<played>14</played>
+				<won>6</won>
+				<drawn>1</drawn>
+				<lost>7</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>22</conceeded>
+			</goals>
+		</item>
+	</items>
+
+	<contest>
+		<competition id="ita_sa">
+			<country>Italy</country>
+			<league>Serie A</league>
+		</competition>
+	</contest>
+	<items>
+		<item>
+			<team id="jfs_ita">
+				<name>Juventus</name>
+				<fullname>Juventus Football Club S.p.A</fullname>
+			</team>
+			<position>1</position>
+			<points>36</points>
+			<matches>
+
+				<played>14</played>
+				<won>11</won>
+				<drawn>3</drawn>
+				<lost>0</lost>
+			</matches>
+			<goals>
+				<scored>23</scored>
+				<conceeded>6</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="acm_ita">
+				<name>AC Milan</name>
+				<fullname>Associazione Calcio Milan</fullname>
+			</team>
+			<position>2</position>
+			<points>29</points>
+
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>5</drawn>
+				<lost>1</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>3</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="fcim_ita">
+				<name>Inter Milan</name>
+				<fullname>Football Club Internazionale Milano S.p.A</fullname>
+
+			</team>
+			<position>3</position>
+			<points>27</points>
+			<matches>
+				<played>14</played>
+				<won>8</won>
+				<drawn>3</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>22</scored>
+				<conceeded>12</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="sscn_ita">
+				<name>Napoli</name>
+
+				<fullname>Società Sportiva Calcio Napoli</fullname>
+			</team>
+			<position>4</position>
+			<points>25</points>
+			<matches>
+				<played>14</played>
+				<won>7</won>
+
+				<drawn>4</drawn>
+				<lost>3</lost>
+			</matches>
+			<goals>
+				<scored>19</scored>
+				<conceeded>14</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="asr_ita">
+				<name>Roma</name>
+				<fullname>Associazione Sportiva Roma</fullname>
+			</team>
+			<position>5</position>
+			<points>22</points>
+			<matches>
+				<played>14</played>
+				<won>6</won>
+				<drawn>4</drawn>
+				<lost>4</lost>
+			</matches>
+			<goals>
+				<scored>20</scored>
+				<conceeded>14</conceeded>
+			</goals>
+		</item>
+		<item>
+			<team id="acf_ita">
+				<name>Fiorentina</name>
+				<fullname>ACF Fiorentina</fullname>
+			</team>
+			<position>6</position>
+
+			<points>19</points>
+			<matches>
+				<played>14</played>
+				<won>6</won>
+				<drawn>1</drawn>
+				<lost>7</lost>
+			</matches>
+			<goals>
+				<scored>15</scored>
+				<conceeded>22</conceeded>
+			</goals>
+		</item>
+	</items>
+
+</xslf:livescore-feed>

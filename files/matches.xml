@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xslf:livescore-feed
+	xsi:schemaLocation="http://xmlscores.com/XSLF http://xmlscores.com/schemas/2/matches.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xslf="http://xmlscores.com/XSLF"
+	timestamp-created="1280164993">
+	<item>
+		<contest>
+			<competition id="eng_bpl">
+				<country>England</country>
+				<league>Barclays Premier League</league>
+			</competition>
+			<season>2013</season>
+		</contest>
+		<matches total-count="5" first="1" last="5">
+			<teams>
+				<home id="mufc_eng">Manchester United</home>
+				<away id="cfc_eng"> Chelsea</away>
+			</teams>
+			<score>2 - 2</score>
+			<time>'80</time>
+			<teams>
+				<home id="mcfc_eng">Manchester City</home>
+				<away id="avfc_eng"> Aston Villa</away>
+			</teams>
+			<score>3 - 2</score>
+			<time>'55</time>
+			<teams>
+				<home id="afc_eng">Arsenal</home>
+				<away id="brfc_eng">Blackburn Rovers</away>
+			</teams>
+			<score>0 - 1</score>
+			<time>'15</time>
+			<teams>
+				<home id="lfc_eng">Liverpool</home>
+				<away id="sfc_eng">Southamtpon</away>
+			</teams>
+			<score>0 - 0</score>
+			<time>'3</time>
+			<teams>
+				<home id="thfc_eng">Tottenham Hotspur</home>
+				<away id="efc_eng">Everton</away>
+			</teams>
+			<score>1 - 2</score>
+			<time>'40</time>
+		</matches>
+	</item>
+	<item>
+		<contest>
+			<competition id="spa_ll">
+				<country>Spain</country>
+				<league>La Liga</league>
+			</competition>
+			<season>2013</season>
+		</contest>
+		<matches total-count="5" first="1" last="5">
+			<teams>
+				<home id="fcb_spa">Barcelona</home>
+				<away id="rmcf_spa">Real Madrid</away>
+			</teams>
+			<score>2 - 2</score>
+			<time>'83</time>
+			<teams>
+				<home id="cad_spa">Atletico Madrid</home>
+				<away id="lud_spa">Levante</away>
+			</teams>
+			<score>0 - 0</score>
+			<time>FT</time>
+			<teams>
+				<home id="vcf_spa">Valencia</home>
+				<away id="rsf_spa">Real Sociedad</away>
+			</teams>
+			<score>0 - 2</score>
+			<time>HT</time>
+			<teams>
+				<home id="sfc_spa">Sevilla</home>
+				<away id="mcf_spa">Malaga</away>
+			</teams>
+			<score>2 - 3</score>
+			<time>'65</time>
+			<teams>
+				<home id="rbb_spa">Real Betis</home>
+				<away id="cao_spa">Osasuna</away>
+			</teams>
+			<score>4 - 1</score>
+			<time>'70</time>
+		</matches>
+	</item>
+	<item>
+		<contest>
+			<competition id="spa_ll">
+				<country>Germany</country>
+				<league>Bundesliga</league>
+			</competition>
+			<season>2013</season>
+		</contest>
+		<matches total-count="5" first="1" last="5">
+			<teams>
+				<home id="fcbm_ger">Bayern Munich</home>
+				<away id="fsm_ger">Mainz</away>
+			</teams>
+			<score>5 - 2</score>
+			<time>'89</time>
+			<teams>
+				<home id="bbvd_ger">Borissa Dortmund</home>
+				<away id="hs_ger">Hannover 96</away>
+			</teams>
+			<score>3 - 2</score>
+			<time>HT</time>
+			<teams>
+				<home id="fcgs_ger">Schalke 04</home>
+				<away id="vflw_ger">Vfl Wolfsburg</away>
+			</teams>
+			<score>1 - 2</score>
+			<time>FT</time>
+			<teams>
+				<home id="hsv_ger">Hamburger SV</home>
+				<away id="svwb_ger">Werder Bremen</away>
+			</teams>
+			<score>0 - 0</score>
+			<time>Starts at 19.00</time>
+			<teams>
+				<home id="b04_ger">Bayer Leverkusen</home>
+				<away id="ef_ger">Frankfurt</away>
+			</teams>
+			<score>1 - 0</score>
+			<time>'5</time>
+		</matches>
+	</item>
+	<item>
+		<contest>
+			<competition id="spa_ll">
+				<country>Italy</country>
+				<league>Serie A</league>
+			</competition>
+			<season>2013</season>
+		</contest>
+		<matches total-count="5" first="1" last="5">
+			<teams>
+				<home id="jfs_ita">Juventus</home>
+				<away id="pfc_spa">Parma</away>
+			</teams>
+			<score>1 - 3</score>
+			<time>'82</time>
+			<teams>
+				<home id="acm_ita">AC Milan</home>
+				<away id="fcim_ita">Inter Milan</away>
+			</teams>
+			<score>1 - 0</score>
+			<time>'50</time>
+			<teams>
+				<home id="asr_ita">AS Roma</home>
+				<away id="acf_ita">ACF Fiorentia</away>
+			</teams>
+			<score>3 - 3</score>
+			<time>FT</time>
+			<teams>
+				<home id="sscn_ita">Napoli</home>
+				<away id="uscp_ita">Palermo</away>
+			</teams>
+			<score>3 - 2</score>
+			<time>HT</time>
+			<teams>
+				<home id="ucs_ita">Sampdoria</home>
+				<away id="gcfc_ita">Genoa</away>
+			</teams>
+			<score>0 - 0</score>
+			<time>Starts at 18.45</time>
+		</matches>
+	</item>
+</xslf:livescore-feed>

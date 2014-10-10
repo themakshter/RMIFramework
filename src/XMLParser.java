@@ -182,7 +182,7 @@ public class XMLParser {
 
 			};
 
-			File file = new File("football/standings.xml");
+			File file = new File("files/standings.xml");
 			InputStream inputStream = new FileInputStream(file);
 			Reader reader = new InputStreamReader(inputStream, "UTF-8");
 
@@ -292,7 +292,7 @@ public class XMLParser {
 				}
 			};
 
-			File file = new File("football/matches.xml");
+			File file = new File("files/matches.xml");
 			InputStream inputStream = new FileInputStream(file);
 			Reader reader = new InputStreamReader(inputStream, "UTF-8");
 			InputSource is = new InputSource(reader);
